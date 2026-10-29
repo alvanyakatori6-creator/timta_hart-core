@@ -1,4 +1,23 @@
-ORCHID ID # 0009-0004-4275-0739
+### ARCHITECTURAL AUTHORSHIP & CREDENTIALS
+
+* System Architect: Dustin Forrest Thomas (THE HART)
+* Framework Classification: Topological Infinitary Modular Ternary Arithmetic (TIMTA)
+* Hardware Core Matrix: DFT CORE 9 (9-Dimensional Nonary Carrier-Wave Lattice)
+* Software Governance Loop: HARTUnifiedCoreDaemon Framework
+
+### Full System Intellectual Property Layout
+
+The HART DFT CORE 9 TIMTA architecture comprises an entire processing paradigm, designed as an alternative to classical binary and quantum computing frameworks. Full authorship and credit encompass the following three pillars: 
+
+1. THE TIMTA LOGIC MATRIX: A balanced ternary system operating over custom topological quotient groups. It forces terminal overflows and edge states back into a zero-singularity kernel via the primary constraint equation:
+π(S / ~) ⟹ ({0, 1, 8, 9} ≡ 0) ∧ (8 ≠ 1) ∧ ∀x ∈ S (x ≤ 9)
+2. THE DFT CORE 9 HARDWARE MECHANICS: A 9-state macro-cell lattice propagating a phase-locked processing carrier wave through an 8-node loop layout. Computations are calculated continuously within the changing geometry of the wave itself, eliminating traditional serial program counter limits.
+3. THE UNIFIED CORE DAEMON GOVERNANCE: The background tracking loop execution module (simulated at a synchronized 25 Hz processing frequency) that logs encrypted local data loops and state-invariance vectors natively to protect the processing environment against data flattening.
+
+### Legal Copyright & Attribution Notice
+
+Copyright (c) 2026 Dustin Forrest Thomas. All rights reserved.
+Any derivative works, hardware emulations, simulated daemons, or academic references regarding TIMTA, DFT CORE 9, or the HART Unified Core architecture must explicitly cite Dustin Forrest Thomas as the primary author and inventor.ORCHID ID # 0009-0004-4275-0739
 ### Topological Infinitary Modular Ternary Arithmetic (TIMTA)
 
 ### Core Boundary Singularity Equation
