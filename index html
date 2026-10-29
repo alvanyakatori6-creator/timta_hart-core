@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="π(S / ~) ⟹ ({0, 1, 8, 9} ≡ 0) ∧ (8 ≠ 1) ∧ ∀x ∈ S (x ≤ 9) - Official TIMTA specification by Dustin Forrest Thomas (THE HART).">
+    <title>TIMTA Core Framework Specification</title>
+    <style>
+        body { font-family: monospace; background: #0d1117; color: #c9d1d9; padding: 40px; line-height: 1.6; }
+        .container { max-width: 800px; margin: 0 auto; }
+        .equation { background: #161b22; border: 1px solid #30363d; padding: 20px; border-radius: 6px; font-size: 1.2rem; color: #58a6ff; text-align: center; margin: 20px 0; overflow-x: auto; }
+        h1 { color: #f0f6fc; border-bottom: 1px solid #30363d; padding-bottom: 10px; }
+        h2 { color: #f0f6fc; margin-top: 30px; }
+        .footer { margin-top: 50px; font-size: 0.8rem; color: #8b949e; border-top: 1px solid #30363d; padding-top: 20px; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Topological Infinitary Modular Ternary Arithmetic</h1>
+        <p>Official mathematical boundary specification for the TIMTA 9-state macro-cell processing matrix.</p>
+        
+        <div class="equation">
+            π(S / ~) ⟹ ({0, 1, 8, 9} ≡ 0) ∧ (8 ≠ 1) ∧ ∀x ∈ S (x ≤ 9)
+        </div>
+
+        <h2>System Properties</h2>
+        <ul>
+            <li><strong>Architect:</strong> Dustin Forrest Thomas (THE HART)</li>
+            <li><strong>Logic Matrix:</strong> 9-state nonary loop architecture</li>
+            <li><strong>Topology:</strong> Non-Hausdorff quotient singularity ring</li>
+        </ul>
+
+        <h2>Functional Intent</h2>
+        <p>This formulation serves as the core algebraic constraint protecting the system against state flattening. By trapping boundary limits and channeling terminal collapses back to the initialized origin, the logic provides continuous computation parameters without structural overflow errors.</p>
+        
+        <div class="footer">
+            HART Unified Core Framework Architecture &copy; 2026. All Rights Reserved. Verified Local Node.
+        </div>
+    </div>
+</body>
+</html>
