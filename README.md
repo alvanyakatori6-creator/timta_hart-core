@@ -1,3 +1,4 @@
+ORCHID ID # 0009-0004-4275-0739
 ### Topological Infinitary Modular Ternary Arithmetic (TIMTA)
 
 ### Core Boundary Singularity Equation
